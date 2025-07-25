@@ -23,8 +23,8 @@ Este projeto é um currículo online desenvolvido com HTML, CSS e JavaScript pur
 ├── index.html          # Estrutura principal da página
 ├── style.css           # Estilo visual com responsividade e animações
 ├── meujs.js            # Lógica JS para animações e efeitos
-└── IMG-20250702...jpg  # Imagem de perfil usada no layout
+└── IMG-20250702...jpg  # Imagem de perfil usada no layout. 
  
-## Link de acesso
+## 🌐 Link de acesso
 
-[Fhvh](https://m4urol.github.io/curriculo-com-html-css-js/) 
+--https://m4urol.github.io/curriculo-com-html-css-js/
