@@ -1,6 +1,6 @@
 # 🧑‍💻 Mauro de Lima - Portfólio Interativo
 
-Este projeto é um currículo online desenvolvido com HTML, CSS e JavaScript puro. Apresenta de forma moderna e interativa as informações profissionais de Mauro de Lima, engenheiro de software, incluindo experiências, competências, idiomas, formação e projetos realizados. Qualquer um que queira usar esse modelo para seu perfil, adicionar melhorias esteja à vontade. 
+Este projeto é um currículo online desenvolvido com HTML, CSS e JavaScript puro. Que presenta de forma moderna e interativa as informações profissionais de Mauro de Lima, engenheiro de software, incluindo experiências, competências, idiomas, formação e projetos realizados. Qualquer um que queira usar esse modelo para seu perfil, adicionar melhorias esteja à vontade. 
 
 ## 🔍 Visão Geral
 
